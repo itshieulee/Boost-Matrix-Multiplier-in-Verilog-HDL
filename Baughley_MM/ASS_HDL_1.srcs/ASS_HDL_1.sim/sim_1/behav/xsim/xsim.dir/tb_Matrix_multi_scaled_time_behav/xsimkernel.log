@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_Matrix_multi_scaled_time_behav/xsimk.exe -simmode gui -wdb tb_Matrix_multi_scaled_time_behav.wdb -simrunnum 0 -socket 50127
+Design successfully loaded
+Design Loading Memory Usage: 29588 KB (Peak: 29588 KB)
+Design Loading CPU Usage: 812 ms
