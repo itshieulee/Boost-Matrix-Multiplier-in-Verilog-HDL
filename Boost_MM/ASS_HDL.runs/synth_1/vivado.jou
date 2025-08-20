@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Aug 20 22:43:21 2025
+# Process ID         : 54288
+# Current directory  : C:/Users/pc/Documents/vivado/ASS_HDL/ASS_HDL.runs/synth_1
+# Command line       : vivado.exe -log Matrix_multi.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Matrix_multi.tcl
+# Log file           : C:/Users/pc/Documents/vivado/ASS_HDL/ASS_HDL.runs/synth_1/Matrix_multi.vds
+# Journal file       : C:/Users/pc/Documents/vivado/ASS_HDL/ASS_HDL.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-TGKP8L1
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16948 MB
+# Swap memory        : 32221 MB
+# Total Virtual      : 49169 MB
+# Available Virtual  : 787 MB
+#-----------------------------------------------------------
+source Matrix_multi.tcl -notrace
